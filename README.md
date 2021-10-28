@@ -1,7 +1,7 @@
 # 👋 Hello! My name is **Hlukhanych Bogdan**!
 ## I'm begginer *Front-end Developer* from Ukraine
 ### Check for my website: [My website](https://carnagexd.github.io/)
-
+<br/> 
 ### Languages and Technologies
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -14,14 +14,13 @@
 ![Firebase](https://img.shields.io/badge/-Firebase-090909?style=for-the-badge&logo=Firebase)
 ![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
+<br/> 
 
 ### 💬 My email: hlukhanych26@gmail.com
 ### ✨ My telegram: @carnagexd
 ### ✨ My twitter: @hlukhanych_dev
 
-
-
+<br/> <br/> 
 # Currently looking for a job :smiley:
 <!--
 **CarnageXD/carnagexd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
