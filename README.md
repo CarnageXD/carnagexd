@@ -1,6 +1,7 @@
 # 👋 Hello! My name is **Hlukhanych Bogdan**!
 ## I'm begginer *Front-end Developer* from Ukraine
-### Check for my website: [My website](https://carnagexd.github.io/)
+### Check for my website: [Click me](https://carnagexd.github.io/)
+<br/>
 ### Languages and Technologies
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
