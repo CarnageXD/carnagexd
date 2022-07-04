@@ -18,7 +18,7 @@
 
 ### :email: My email: hlukhanych26@gmail.com
 ### ✨ My telegram: @carnagexd
-### ✨ My twitter: @hlukhanych_dev
+### ✨ My twitter: @carnagexddd
 <!--
 **CarnageXD/carnagexd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
