@@ -1,5 +1,5 @@
 # 👋 Hello! My name is **Bogdan**!
-## I'm a beginner *Front-end Developer* from Ukraine, who's fond of coding and technologies.
+## I'm a *Front-end Developer* from Ukraine, who's fond of coding and technologies.
 ### Check for my website: [Click me](https://carnagexd.github.io/)
 ### Languages and Technologies
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
